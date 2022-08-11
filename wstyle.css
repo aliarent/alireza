@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width:900px){
+.q2{
+height: 200px;
+}
+.q2,end {
+background-color:#4D2D2D;
+width: 900px;
+height: 200px;
+}
+.q1 span {
+margin: 20px 0px;
+}
+.q2 .p1{
+width: 900px;
+height: 100px;
+display: block;}
+.q2 .d1{
+display: none;
+}
+badane {
+display: none;
+
+}
+badan {
+display: block;
+}
+menu{
+font-size: 20px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

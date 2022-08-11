@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+width: 100%;
+max-width: 1500px;
+font-size: 16px;
+
+
+}
+.q2 , end{
+background-color: #000000;
+display: block;
+color:#ffffff;
+
+
+}
+.q2 .p1{
+
+display: none;
+}
+ .q2{
+ padding: 7px 10px;
+ }
+ .q2 span{
+ border: 3px solid #ffffff;
+ border-radius: 5px;
+ padding: 3px;
+ margin: 5px;
+ 
+ }
+ .q2 span:hover{
+ background-color: #1FBD00;
+ cursor:auto;
+ color:#000000;
+ }
+ .q2 headeas h1:hover{
+ color:#1FBD00;
+ cursor: auto;
+ }
+ .q2 headeas p:hover{
+ color:#1FBD00;
+ cursor: auto;
+ }
+ .q2 headeas p{
+ font-size: 1.5em;
+ }
+ badan {
+ display: none;
+ }
+
+meno{
+
+display: grid;
+grid-template-areas:
+"w e e e e e"
+"w v v v v v"
+
+}
+menu{
+grid-area: w ;
+padding-left: 0px ;
+
+
+}
+meno menu kadr {
+border-bottom: 2px solid #444;
+padding-right:60px;
+font-size: 1.2em;
+margin-top: 20px;
+
+
+}
+badane{
+grid-area: e ;
+}
+
+cart {
+grid-area: v ;
+display:flex;
+justify-content: space-around;
+
+
+}
+cart span {
+background-color: #00AFB1;
+padding: 50px;
+
+
+}
+cart span:hover {
+background-color:#009BB4;
+cursor: auto;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
